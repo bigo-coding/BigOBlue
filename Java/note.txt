@@ -1,0 +1,3 @@
+BFS: hàm printPath dùng path như biến global nhưng không có khai báo biến global nào :).
+DFS: cũng như trên + chưa khai báo graph
+Dijkstra: chưa khai báo graph
