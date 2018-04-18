@@ -1,1 +1,2 @@
 Dijkstra: dòng dist = 0 và id = 0 trong class Node không có ý nghĩa gì. s = 0, t = 4 sai cú pháp.
+BinarySearchTree: đâu cần phải del :'( Python có garbage collector mà :'(

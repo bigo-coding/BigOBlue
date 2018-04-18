@@ -1,3 +1,5 @@
 BFS: hàm printPath dùng path như biến global nhưng không có khai báo biến global nào :).
-DFS: cũng như trên + chưa khai báo graph
+DFS: cũng như trên + chưa khai báo graph.
 Dijkstra: chưa khai báo graph
+BinarySearchTree: dòng đầu của hàm phương thức insertNode: "if (root == null) {" -> dư dấu mở ngoặc nhọn.
+DSU: chưa có MAX, hàm union và findParent lúc gọi không có truyền vào parent
