@@ -47,8 +47,6 @@ void pop() {
     h.pop_back();
     MinHeapify(0);
 }
-    }
-}
 int main() {
     vector<int> a = { 7, 12, 6, 10, 17, 15, 2, 4 };
     h = a;
